@@ -1,0 +1,29 @@
+{
+ "app": "Flight UI App",
+ "start": "flight-result",
+ "screens": [
+  {
+   "slug": "flight-result",
+   "name": "flight result",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 118,
+   "links": 2
+  },
+  {
+   "slug": "flight-sort",
+   "name": "flight sort",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 148,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "poppins"
+ ]
+}
